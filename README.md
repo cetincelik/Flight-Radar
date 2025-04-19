@@ -67,7 +67,7 @@ Flight data is fetched via [Flight Radar API (RapidAPI)](https://rapidapi.com/ap
 
 🎯 Try out the live version of the app using the link below:
 
-👉 [View Live Demo](https://your-demo-link.com)
+👉 [View Live Demo](https://flight-radar-demo.netlify.app/)
 
 > Note: If the demo link is not working, please check back later.
 
